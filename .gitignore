@@ -1,0 +1,6 @@
+# Submission packages
+/submission/
+
+# GPT-generated artifacts and temporary render files
+/output/
+/tmp/
